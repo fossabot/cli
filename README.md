@@ -1,4 +1,5 @@
 [![build status](https://circleci.com/gh/docker/cli.svg?style=shield)](https://circleci.com/gh/docker/cli/tree/master) [![Build Status](https://jenkins.dockerproject.org/job/docker/job/cli/job/master/badge/icon)](https://jenkins.dockerproject.org/job/docker/job/cli/job/master/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fcli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fcli?ref=badge_shield)
 
 docker/cli
 ==========
@@ -67,3 +68,7 @@ Licensing
 docker/cli is licensed under the Apache License, Version 2.0. See
 [LICENSE](https://github.com/docker/docker/blob/master/LICENSE) for the full
 license text.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fcli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fcli?ref=badge_large)
